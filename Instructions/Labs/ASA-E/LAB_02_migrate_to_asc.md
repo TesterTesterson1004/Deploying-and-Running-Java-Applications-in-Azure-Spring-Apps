@@ -44,7 +44,7 @@ During this challenge, you will:
 - Provide a publicly available endpoints for the Spring Petclinic application
 - Test the application through the publicly available endpoints
 
-> **Note**: Follow the steps in the [install instructions](../../install.md) to set up this lab on your platform of choice.
+> **Note**: Follow the steps in the [install instructions](../../../install.md) to set up this lab on your platform of choice.
 
 ### Create an Azure Spring Apps Enterprise service
 
